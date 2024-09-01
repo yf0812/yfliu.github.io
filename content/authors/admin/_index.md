@@ -61,7 +61,7 @@ education:
   #   button:
   #     text: 'Read Thesis'
   #     url: 'https://example.com'
-  - area: MEng Electronic Information
+  - area: M.Sc. Electronic Information
     institution: Beihang University
     date_start: 2022-09-01
     date_end: 2025-01-31
@@ -77,7 +77,7 @@ education:
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Electronic Engineering and Automation
+  - area: B.Eng. Electronic Engineering and Automation
     institution: Jinan University
     date_start: 2018-09-06
     date_end: 2022-06-12
